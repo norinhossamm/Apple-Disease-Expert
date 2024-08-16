@@ -38,7 +38,7 @@ A confusion matrix was also implemented as another visualization method. This ta
 
 <p align="center">
   <img height="250" width="300" alt="Screenshot 2024-08-06 at 7 45 17 PM" src="https://github.com/user-attachments/assets/b417ed92-7112-4b07-be4b-09e90b64a862">
-  <img height="250" width="318" alt="Screenshot 2024-08-06 at 7 44 08 PM" src="https://github.com/user-attachments/assets/ae55c9a4-685e-4c94-9602-80b85cfc61fc">
+  <img height="250" width="300" alt="Screenshot 2024-08-06 at 7 44 08 PM" src="https://github.com/user-attachments/assets/ae55c9a4-685e-4c94-9602-80b85cfc61fc">
 </p>
 
 ## Results and Conclusion:
